@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-22T04:54:32Z" name="Default suite" finished-at="2020-12-22T04:54:34Z" duration-ms="2286">
+    <groups>
+    </groups>
+    <test started-at="2020-12-22T04:54:32Z" name="Default test" finished-at="2020-12-22T04:54:34Z" duration-ms="2286">
+      <class name="com.sample.test.demo.tests.DemoTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.sample.test.demo.tests.DemoTest@39d9314d]" started-at="2020-12-22T04:54:32Z" name="init" finished-at="2020-12-22T04:54:34Z" duration-ms="1631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="getTitle()[pri:0, instance:com.sample.test.demo.tests.DemoTest@39d9314d]" started-at="2020-12-22T04:54:34Z" name="getTitle" finished-at="2020-12-22T04:54:34Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method signature="radio()[pri:0, instance:com.sample.test.demo.tests.DemoTest@39d9314d]" started-at="2020-12-22T04:54:34Z" name="radio" finished-at="2020-12-22T04:54:34Z" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radio -->
+        <test-method signature="verifyEmptyNameAlert()[pri:0, instance:com.sample.test.demo.tests.DemoTest@39d9314d]" started-at="2020-12-22T04:54:34Z" name="verifyEmptyNameAlert" finished-at="2020-12-22T04:54:34Z" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyNameAlert -->
+        <test-method signature="verifyEmptyPhoneAlert()[pri:0, instance:com.sample.test.demo.tests.DemoTest@39d9314d]" started-at="2020-12-22T04:54:34Z" name="verifyEmptyPhoneAlert" finished-at="2020-12-22T04:54:34Z" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyPhoneAlert -->
+        <test-method signature="verifyPizza1Dropdown()[pri:0, instance:com.sample.test.demo.tests.DemoTest@39d9314d]" started-at="2020-12-22T04:54:34Z" name="verifyPizza1Dropdown" finished-at="2020-12-22T04:54:34Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPizza1Dropdown -->
+        <test-method signature="verifyToppings1Dropdown()[pri:0, instance:com.sample.test.demo.tests.DemoTest@39d9314d]" started-at="2020-12-22T04:54:34Z" name="verifyToppings1Dropdown" finished-at="2020-12-22T04:54:34Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyToppings1Dropdown -->
+        <test-method signature="verifyToppings2Dropdown()[pri:0, instance:com.sample.test.demo.tests.DemoTest@39d9314d]" started-at="2020-12-22T04:54:34Z" name="verifyToppings2Dropdown" finished-at="2020-12-22T04:54:34Z" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyToppings2Dropdown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sample.test.demo.tests.DemoTest@39d9314d]" started-at="2020-12-22T04:54:34Z" name="tearDown" finished-at="2020-12-22T04:54:34Z" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sample.test.demo.tests.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
